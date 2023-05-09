@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.primeorderv2.app-mergeReleaseResources-39:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/Users/apple/.gradle/caches/transforms-3/ccb1f6a711d1b6ba2fa7465a5365b68e/transformed/appcompat-1.4.1/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

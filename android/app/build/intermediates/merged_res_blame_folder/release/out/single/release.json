@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_itemimage_irg31.jpg.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_itemimage_irg31.jpg"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_voicein.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_voicein.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_logout.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_logout.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-hdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-hdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_og.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_og.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_search1.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_search1.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_dash.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_dash.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_line.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_line.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_order1_g.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_order1_g.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_history1.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_history1.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_search.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_search.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_minus2.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_minus2.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_tick.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_tick.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_invoice2.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_invoice2.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowup.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowup.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_inventory1.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_inventory1.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.primeorderv2.app-main-42:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.primeorderv2.app-main-42:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_recyclebin.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_recyclebin.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-xxxhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-xxxhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_right.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_right.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_user.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_user.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_bg3.jpeg.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_bg3.jpeg"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_fastforward.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_fastforward.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.primeorderv2.app-main-42:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_profile.jpeg.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_profile.jpeg"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_promotions1.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_promotions1.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_padlock.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_padlock.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.primeorderv2.app-main-42:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_user_g.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_user_g.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_itemimage_item1.jpg.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_itemimage_item1.jpg"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.primeorderv2.app-main-42:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_itemimage_irg55.jpg.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_itemimage_irg55.jpg"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowdown.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_arrowdown.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_scan.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_scan.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_header.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_header.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.primeorderv2.app-main-42:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_barcode.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_barcode.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.primeorderv2.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_add.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_add.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_forgotpassword.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_forgotpassword.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.primeorderv2.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_completed1.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_completed1.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.primeorderv2.app-main-42:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_sync.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_sync.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "com.primeorderv2.app-main-42:/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.primeorderv2.app-main-42:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_close.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_close.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_itemimage_irg11.jpg.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_itemimage_irg11.jpg"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_upload.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_upload.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_light_icons_tick.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_light_icons_tick.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.primeorderv2.app-main-42:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_ordo.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_ordo.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.primeorderv2.app-main-42:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_itemimage_irg14.jpg.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_itemimage_irg14.jpg"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_minus.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_minus.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_itemimage_irg27.jpg.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_itemimage_irg27.jpg"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.primeorderv2.app-main-42:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_coin.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_coin.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_groceries_g.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_groceries_g.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.primeorderv2.app-main-42:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_close_btn.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_close_btn.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_bg2.jpeg.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_bg2.jpeg"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_pending1.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_pending1.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_customerimages_noimage1.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_customerimages_noimage1.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.primeorderv2.app-main-42:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_ordosplash.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_ordosplash.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_itemimage_irg26.jpg.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_itemimage_irg26.jpg"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_invoice.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_invoice.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_itemimage_irg13.jpg.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_itemimage_irg13.jpg"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_customerimages_cust1.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_customerimages_cust1.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.primeorderv2.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_close.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_close.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.primeorderv2.app-main-42:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_itembg.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_itembg.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_checkoutorder.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_checkoutorder.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_itemimage_irg19.jpg.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_itemimage_irg19.jpg"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backiconmask.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_voicesearch.gif.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_voicesearch.gif"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_prebookings.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_prebookings.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_itemimage_irg25.jpg.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_itemimage_irg25.jpg"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_groceries.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_groceries.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_itemimage_irg29.jpg.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_itemimage_irg29.jpg"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_order1.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_order1.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowup.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowup.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_order_logo.jpeg.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_order_logo.jpeg"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_noitem.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_noitem.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_arrow.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_arrow.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_home_g.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_home_g.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_itemimage_irg18.jpg.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_itemimage_irg18.jpg"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_home.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_home.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowdown.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/node_modules_reactnativedropdownpicker_src_themes_dark_icons_arrowdown.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_return1.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_return1.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_itemimage_irg30.jpg.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_itemimage_irg30.jpg"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.primeorderv2.app-main-42:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/mipmap-ldpi_ic_launcher_round.png.flat",
+        "source": "com.primeorderv2.app-main-42:/mipmap-ldpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-xhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-xhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_customerimages_noimage.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_customerimages_noimage.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_itemimage_irg20.jpg.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_itemimage_irg20.jpg"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-mdpi_screens_components1_images_ordo_banner.jpeg.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-mdpi/screens_components1_images_ordo_banner.jpeg"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-41:/drawable-xxhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "com.primeorderv2.app-react-36:/drawable-xxhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    }
+]

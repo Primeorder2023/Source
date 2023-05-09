@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "877731960223",
+    "project_id": "primeorderv2",
+    "storage_bucket": "primeorderv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877731960223:android:097a2310ef53538ffa99aa",
+        "android_client_info": {
+          "package_name": "com.primeorderv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877731960223-bn9dnbua5dfnsqi970e6vmshc5evqles.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqkXD1517AdlbRBovgQ4oDbaf1utLv7LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877731960223-bn9dnbua5dfnsqi970e6vmshc5evqles.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877731960223-0udjbvrh0hvv7435vaco07aepia226d8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.primesophic.ordo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">877731960223-bn9dnbua5dfnsqi970e6vmshc5evqles.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">877731960223</string>
+    <string name="google_api_key" translatable="false">AIzaSyCqkXD1517AdlbRBovgQ4oDbaf1utLv7LA</string>
+    <string name="google_app_id" translatable="false">1:877731960223:android:097a2310ef53538ffa99aa</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCqkXD1517AdlbRBovgQ4oDbaf1utLv7LA</string>
+    <string name="google_storage_bucket" translatable="false">primeorderv2.appspot.com</string>
+    <string name="project_id" translatable="false">primeorderv2</string>
+</resources>

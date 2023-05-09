@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.primeorderv2.app-mergeDebugResources-40:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/apple/.gradle/caches/transforms-3/ccb1f6a711d1b6ba2fa7465a5365b68e/transformed/appcompat-1.4.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.primeorderv2.app-merged_res-42:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.primeorderv2.app-main-44:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-42:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.primeorderv2.app-main-44:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-42:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.primeorderv2.app-main-44:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-42:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.primeorderv2.app-main-44:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-42:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.primeorderv2.app-main-44:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-42:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "com.primeorderv2.app-main-44:/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-42:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.primeorderv2.app-main-44:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-42:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.primeorderv2.app-main-44:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-42:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.primeorderv2.app-main-44:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-42:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.primeorderv2.app-main-44:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-42:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.primeorderv2.app-main-44:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-42:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.primeorderv2.app-main-44:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-42:/mipmap-ldpi_ic_launcher_round.png.flat",
+        "source": "com.primeorderv2.app-main-44:/mipmap-ldpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-42:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.primeorderv2.app-main-44:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-42:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.primeorderv2.app-main-44:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-42:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.primeorderv2.app-main-44:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-42:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.primeorderv2.app-main-44:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-42:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.primeorderv2.app-main-44:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-42:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.primeorderv2.app-main-44:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.primeorderv2.app-merged_res-42:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.primeorderv2.app-main-44:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]
