@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "607386228532",
+    "project_id": "ordo-378e4",
+    "storage_bucket": "ordo-378e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607386228532:android:95d74da2c3513c854d7761",
+        "android_client_info": {
+          "package_name": "com.primesophic.ordo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607386228532-9g1e6rsdtsa37r6cviu6jkben6hkf53s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqLjYc2avw5Fbw0-ARChEPmG-HbWhyUPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607386228532-9g1e6rsdtsa37r6cviu6jkben6hkf53s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "607386228532-e2nveqqi33br6bge34jt0s3qkrf4sv0l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.primesophic.ordo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

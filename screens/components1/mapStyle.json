@@ -1,0 +1,23 @@
+[
+    {
+        "elementType": "geometry",
+        "stylers":[{
+            "color":"#212121"
+        }
+        ]
+    },
+    {
+        "elementType": "labels",
+        "stylers":[{
+            "visibility":"off"
+        }
+        ]
+    },
+    {
+        "elementType": "labels.icon",
+        "stylers":[{
+            "visibility":"off"
+        }
+        ]
+    }
+]

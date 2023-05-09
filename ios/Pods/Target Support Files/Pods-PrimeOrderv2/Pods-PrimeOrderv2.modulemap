@@ -1,6 +1,0 @@
-module Pods_PrimeOrderv2 {
-  umbrella header "Pods-PrimeOrderv2-umbrella.h"
-
-  export *
-  module * { export * }
-}

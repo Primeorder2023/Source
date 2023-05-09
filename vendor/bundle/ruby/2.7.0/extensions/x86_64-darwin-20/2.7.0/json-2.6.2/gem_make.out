@@ -1,0 +1,13 @@
+current directory: /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/vendor/bundle/ruby/2.7.0/gems/json-2.6.2/ext/json
+/Users/apple/.rvm/rubies/ruby-2.7.5/bin/ruby -I /Users/apple/.rvm/rubies/ruby-2.7.5/lib/ruby/2.7.0 -r ./siteconf20221111-36858-q9gfhq.rb extconf.rb
+creating Makefile
+
+current directory: /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/vendor/bundle/ruby/2.7.0/gems/json-2.6.2/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/vendor/bundle/ruby/2.7.0/gems/json-2.6.2/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/vendor/bundle/ruby/2.7.0/gems/json-2.6.2/ext/json
+make "DESTDIR=" install

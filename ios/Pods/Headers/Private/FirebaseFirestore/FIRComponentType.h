@@ -1,1 +1,0 @@
-../../../FirebaseFirestore/FirebaseCore/Extension/FIRComponentType.h
