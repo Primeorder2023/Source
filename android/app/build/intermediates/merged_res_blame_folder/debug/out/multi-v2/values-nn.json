@@ -4,7 +4,7 @@
             "outputFile": "com.primeorderv2.app-mergeDebugResources-40:/values-nn/values-nn.xml",
             "map": [
                 {
-                    "source": "/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-date-picker/android/build/intermediates/packaged_res/debug/values-nn/values-nn.xml",
+                    "source": "/Users/apple/Documents/GitHub/Source/node_modules/react-native-date-picker/android/build/intermediates/packaged_res/debug/values-nn/values-nn.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

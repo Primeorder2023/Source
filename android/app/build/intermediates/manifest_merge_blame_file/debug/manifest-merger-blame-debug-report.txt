@@ -9,16 +9,16 @@
 9        android:targetSdkVersion="31" />
 10
 11    <queries>
-11-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:3:1-8:15
+11-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:3:1-8:15
 12        <intent>
-12-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:4:9-7:18
+12-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:4:9-7:18
 13            <action android:name="android.intent.action.VIEW" />
-13-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:5:13-65
-13-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:5:21-62
+13-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:5:13-65
+13-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:5:21-62
 14
 15            <data android:scheme="https" />
-15-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:6:13-43
-15-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:6:19-41
+15-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:6:13-43
+15-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:6:19-41
 16        </intent>
 17        <!-- Needs to be explicitly declared on Android R+ -->
 18        <package android:name="com.google.android.apps.maps" />
@@ -27,29 +27,29 @@
 19    </queries>
 20
 21    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-21-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/debug/AndroidManifest.xml:10:5-77
-21-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/debug/AndroidManifest.xml:10:22-75
+21-->/Users/apple/Documents/GitHub/Source/android/app/src/debug/AndroidManifest.xml:10:5-77
+21-->/Users/apple/Documents/GitHub/Source/android/app/src/debug/AndroidManifest.xml:10:22-75
 22    <uses-permission android:name="android.permission.INTERNET" />
-22-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:9:5-67
-22-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:9:22-64
+22-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:9:5-67
+22-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:9:22-64
 23    <uses-permission android:name="android.permission.CAMERA" />
-23-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:10:1-61
-23-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:10:18-58
+23-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:10:1-61
+23-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:10:18-58
 24    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-24-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:11:1-76
-24-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:11:18-74
+24-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:11:1-76
+24-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:11:18-74
 25    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-25-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:13:1-76
-25-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:13:18-74
+25-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:13:1-76
+25-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:13:18-74
 26    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-26-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:14:1-75
-26-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:14:18-72
+26-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:14:1-75
+26-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:14:18-72
 27    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-27-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:15:1-73
-27-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:15:18-70
+27-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:15:1-73
+27-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:15:18-70
 28    <uses-permission android:name="android.permission.WAKE_LOCK" />
-28-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:16:1-64
-28-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:16:18-61
+28-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:16:1-64
+28-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:16:18-61
 29
 30    <permission
 31        android:name="com.primeorderv2.permission.C2D_MESSAGE"
@@ -57,23 +57,23 @@
 33
 34    <uses-permission android:name="com.primeorderv2.permission.C2D_MESSAGE" />
 35    <uses-permission android:name="android.permission.VIBRATE" />
-35-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:21:2-63
-35-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:21:19-60
+35-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:21:2-63
+35-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:21:19-60
 36    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-36-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:22:1-76
-36-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:22:18-74
+36-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:22:1-76
+36-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:22:18-74
 37    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-37-->[:react-native-community_netinfo] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
-37-->[:react-native-community_netinfo] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-76
+37-->[:react-native-community_netinfo] /Users/apple/Documents/GitHub/Source/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+37-->[:react-native-community_netinfo] /Users/apple/Documents/GitHub/Source/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-76
 38    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-38-->[:react-native-community_netinfo] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-76
-38-->[:react-native-community_netinfo] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-73
+38-->[:react-native-community_netinfo] /Users/apple/Documents/GitHub/Source/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-76
+38-->[:react-native-community_netinfo] /Users/apple/Documents/GitHub/Source/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-73
 39    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-39-->[:react-native-camera-kit] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-camera-kit/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-80
-39-->[:react-native-camera-kit] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-camera-kit/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-77
+39-->[:react-native-camera-kit] /Users/apple/Documents/GitHub/Source/node_modules/react-native-camera-kit/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-80
+39-->[:react-native-camera-kit] /Users/apple/Documents/GitHub/Source/node_modules/react-native-camera-kit/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-77
 40    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-40-->[:react-native-voice] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-voice/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-71
-40-->[:react-native-voice] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-voice/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-68
+40-->[:react-native-voice] /Users/apple/Documents/GitHub/Source/node_modules/react-native-voice/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-71
+40-->[:react-native-voice] /Users/apple/Documents/GitHub/Source/node_modules/react-native-voice/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-68
 41    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" /> <!-- Required by older versions of Google Play services to create IID tokens -->
 41-->[com.google.firebase:firebase-messaging:23.1.0] /Users/apple/.gradle/caches/transforms-3/4dd00cc625338cd45efba0cb8c7bf445/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:25:5-77
 41-->[com.google.firebase:firebase-messaging:23.1.0] /Users/apple/.gradle/caches/transforms-3/4dd00cc625338cd45efba0cb8c7bf445/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:25:22-74
@@ -149,116 +149,116 @@
 70-->[me.leolin:ShortcutBadger:1.1.22] /Users/apple/.gradle/caches/transforms-3/d0375332259248c6b44c2a0be3ac59c5/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86
 71
 72    <application
-72-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:23:5-50:19
+72-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:23:5-50:19
 73        android:name="com.primeorderv2.MainApplication"
-73-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:24:7-38
+73-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:24:7-38
 74        android:allowBackup="false"
-74-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:28:7-34
+74-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:28:7-34
 75        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 75-->[androidx.core:core:1.7.0] /Users/apple/.gradle/caches/transforms-3/bb7809dd809aac7fc5e60a2ffb3bb41c/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 76        android:debuggable="true"
 77        android:extractNativeLibs="false"
 78        android:icon="@mipmap/ic_launcher"
-78-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:26:7-41
+78-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:26:7-41
 79        android:label="@string/app_name"
-79-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:25:7-39
+79-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:25:7-39
 80        android:roundIcon="@mipmap/ic_launcher_round"
-80-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:27:7-52
+80-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:27:7-52
 81        android:theme="@style/AppTheme"
-81-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:30:7-38
+81-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:30:7-38
 82        android:usesCleartextTraffic="true" >
-82-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:29:7-42
+82-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:29:7-42
 83        <activity
-83-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:46:9-86
+83-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:46:9-86
 84            android:name="com.facebook.react.devsupport.DevSettingsActivity"
-84-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:46:19-83
+84-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:46:19-83
 85            android:exported="false" />
-85-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/debug/AndroidManifest.xml:16:84-108
+85-->/Users/apple/Documents/GitHub/Source/android/app/src/debug/AndroidManifest.xml:16:84-108
 86        <activity
-86-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:31:7-45:18
+86-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:31:7-45:18
 87            android:name="com.primeorderv2.MainActivity"
-87-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:32:9-37
+87-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:32:9-37
 88            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-88-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:36:9-118
+88-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:36:9-118
 89            android:exported="true"
-89-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:40:9-32
+89-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:40:9-32
 90            android:label="@string/app_name"
-90-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:34:9-41
+90-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:34:9-41
 91            android:launchMode="singleTask"
-91-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:37:9-40
+91-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:37:9-40
 92            android:screenOrientation="portrait"
-92-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:35:9-45
+92-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:35:9-45
 93            android:windowSoftInputMode="adjustResize" >
-93-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:39:9-51
+93-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:39:9-51
 94            <intent-filter>
-94-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:41:9-44:25
+94-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:41:9-44:25
 95                <action android:name="android.intent.action.MAIN" />
-95-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:42:13-65
-95-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:42:21-62
+95-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:42:13-65
+95-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:42:21-62
 96
 97                <category android:name="android.intent.category.LAUNCHER" />
-97-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:43:13-73
-97-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:43:23-70
+97-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:43:13-73
+97-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:43:23-70
 98            </intent-filter>
 99        </activity>
 100
 101        <meta-data
-101-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:47:4-49:70
+101-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:47:4-49:70
 102            android:name="com.google.android.geo.API_KEY"
-102-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:48:13-58
+102-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:48:13-58
 103            android:value="AIzaSyC2-Avc5eocLws6rogSAFL_U324kMkKVRQ" />
-103-->/Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/android/app/src/main/AndroidManifest.xml:49:13-68
+103-->/Users/apple/Documents/GitHub/Source/android/app/src/main/AndroidManifest.xml:49:13-68
 104
 105        <provider
-105-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+105-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/Source/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
 106            android:name="com.vinzscam.reactnativefileviewer.FileProvider"
-106-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-75
+106-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/Source/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-75
 107            android:authorities="com.primeorderv2.provider"
-107-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-60
+107-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/Source/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-60
 108            android:exported="false"
-108-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+108-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/Source/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
 109            android:grantUriPermissions="true" >
-109-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+109-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/Source/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
 110            <meta-data
-110-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:70
+110-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/Source/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:70
 111                android:name="android.support.FILE_PROVIDER_PATHS"
-111-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+111-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/Source/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
 112                android:resource="@xml/file_viewer_provider_paths" />
-112-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-67
+112-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/Source/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-67
 113        </provider>
 114        <provider
-114-->[:react-native-share] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+114-->[:react-native-share] /Users/apple/Documents/GitHub/Source/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
 115            android:name="cl.json.RNShareFileProvider"
-115-->[:react-native-share] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-55
+115-->[:react-native-share] /Users/apple/Documents/GitHub/Source/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-55
 116            android:authorities="com.primeorderv2.rnshare.fileprovider"
-116-->[:react-native-share] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-72
+116-->[:react-native-share] /Users/apple/Documents/GitHub/Source/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-72
 117            android:exported="false"
-117-->[:react-native-share] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+117-->[:react-native-share] /Users/apple/Documents/GitHub/Source/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
 118            android:grantUriPermissions="true" >
-118-->[:react-native-share] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+118-->[:react-native-share] /Users/apple/Documents/GitHub/Source/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
 119            <meta-data
-119-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:70
+119-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/Source/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:70
 120                android:name="android.support.FILE_PROVIDER_PATHS"
-120-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+120-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/Source/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
 121                android:resource="@xml/share_download_paths" />
-121-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-67
+121-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/Source/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-67
 122        </provider>
 123        <provider
-123-->[:react-native-webview] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+123-->[:react-native-webview] /Users/apple/Documents/GitHub/Source/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
 124            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
-124-->[:react-native-webview] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-83
+124-->[:react-native-webview] /Users/apple/Documents/GitHub/Source/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-83
 125            android:authorities="com.primeorderv2.fileprovider"
-125-->[:react-native-webview] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-64
+125-->[:react-native-webview] /Users/apple/Documents/GitHub/Source/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-64
 126            android:exported="false"
-126-->[:react-native-webview] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+126-->[:react-native-webview] /Users/apple/Documents/GitHub/Source/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
 127            android:grantUriPermissions="true" >
-127-->[:react-native-webview] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+127-->[:react-native-webview] /Users/apple/Documents/GitHub/Source/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
 128            <meta-data
-128-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:70
+128-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/Source/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:70
 129                android:name="android.support.FILE_PROVIDER_PATHS"
-129-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+129-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/Source/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
 130                android:resource="@xml/file_provider_paths" />
-130-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/PrimeOrderv2/PrimeOrderv2/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-67
+130-->[:react-native-file-viewer] /Users/apple/Documents/GitHub/Source/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-67
 131        </provider>
 132
 133        <receiver

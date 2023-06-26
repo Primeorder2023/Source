@@ -48,7 +48,7 @@ class SplashScreen extends React.Component{
             <SafeAreaView style={{flex:1,backgroundColor:'#ffffff'}}>
             <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' ,backgroundColor:'#ffffff'}}>
                 <View style={{ flexDirection: 'row', alignContent: 'center', justifyContent: 'center' }}>
-                  <Image source={require('../PrimeOrderv2/screens/components1/images/OrDoSplash.png')} style={{width:150,height:95}} > 
+                  <Image source={require('../Source/screens/components1/images/OrDoSplash.png')} style={{width:150,height:95}} > 
                   </Image>
                 </View>
             </View>
